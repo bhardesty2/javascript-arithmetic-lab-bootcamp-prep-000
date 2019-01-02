@@ -60,5 +60,6 @@ return parseFloat(2.222)
 }
 
 function preserveDecima(n){
-return 'true'
+parseFloat ('n')
+return 'n'
 }
