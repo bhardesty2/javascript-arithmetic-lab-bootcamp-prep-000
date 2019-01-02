@@ -63,3 +63,5 @@ function preserveDecima(n){
 parseFloat ('n')
 return n
 }
+
+function preserveDecimal
