@@ -64,4 +64,4 @@ parseFloat ('n')
 return n
 }
 
-function preserveDecimal
+function preserveDecimal(n);
