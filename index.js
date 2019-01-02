@@ -60,4 +60,5 @@ return parseFloat(2.222)
 }
 
 function preserveDecima(n){
-return 
+return 'NaN'
+}
