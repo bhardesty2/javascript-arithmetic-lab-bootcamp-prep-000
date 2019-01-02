@@ -65,5 +65,5 @@ return n
 }
 
 function preserveDecimal(n){
-  
+  return parseFloat()
 }
